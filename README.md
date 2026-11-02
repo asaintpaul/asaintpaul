@@ -13,10 +13,11 @@ Je m'intéresse à la **modélisation des risques** et à l'**analyse de donnée
 | [Demande d'électricité en Irlande](https://github.com/asaintpaul/econometrie-series-temporelles-irlande) | Économétrie des séries temporelles : stationnarité, ruptures structurelles | R |
 | [Accès aux soins en France](https://github.com/asaintpaul/healthcare-access-analysis-france) | Indice d'accès aux soins sur 35 000 communes, cartographie des déserts médicaux | Python |
 | [Qualité de l'air à Périgueux](https://github.com/asaintpaul/analyse-pollution-perigueux-R) | Analyse en composantes principales des polluants et de la météo | R |
+| [Contagion dans les réseaux bancaires](https://github.com/asaintpaul/hackathon-contagion-bancaire) | Simulation de cascades de défauts, forêt aléatoire, stratégies de protection (hackathon) | Python |
 
 ## Outils
 
-R · Python · Excel
+R · Python · Excel · scikit-learn · NetworkX
 
 ## Contact
 
